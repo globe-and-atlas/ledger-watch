@@ -1,28 +1,29 @@
-# ledger-watch
+---
+generated_by: "OpenAI Codex (GPT-6; exact variant not exposed)"
+timestamp: "2026-11-05T22:18:56-06:00"
+---
+# Ledger
+A Pebble Time2 watchface with large serif time, fine rules, a date row and battery percentage.
 
-Scaffolded from `project-template` using the `workflow-python` profile.
+- Six palettes: Paper,Cream,Night,Sage,Ice,Blue.
+- Custom background,text,accent colors.
+- Watch-default,12-hour,24-hour time; AMPM in12-hour mode.
+- DateOff,word,ISO,US,EU.
+- Actual battery percentage; minute-only updates.
 
-## Project Profile
+`make test`, `make build`, `make verify`.
+Production: dist/Ledger-0.1.0.pbw. Native previews inmedia/. Live: [Ledger](https://apps.repebble.com/1ee890ebe1f942a2aa708f56).
 
-- `profile`: `workflow-python`
-- `deploy`: `local-only`
-- `runtime`: `python`
-- `loop_mode`: `data`
-- `knowledge_level`: `heavy`
+## Public release
+https://apps.repebble.com/1ee890ebe1f942a2aa708f56
 
-## Workshop Standard
+Version0.1.0. First preview: six-palette native GIF,15.5s loop with2.5–3s holds. Four still previews follow. PublicGIF andPBW bytes verified against local release files.
 
-This project follows the 3-layer architecture:
 
-```text
-directives/     Layer 1 — What to do
-agent           Layer 2 — Decide → Delegate → Verify
-execution/      Layer 3 — Deterministic execution (when this profile uses it)
-```
+## Round-compatible release — 0.1.1
 
-## Next Steps
+Ledger includes native layouts for Pebble Time2 (Emery200×228), original Time Round (Chalk180×180), and Round2 (Gabbro260×260). The rectangular layout and existing settings identities are preserved.
 
-1. Fill in the actual project description here.
-2. Update `task.md` with the first real milestone.
-3. Populate `knowledge/context.md`.
-4. Draft the first workflow directive in `directives/`.
+Build: `python3 execution/build.py`, then `python3 execution/verify.py`. Local bundle: `dist/Ledger-0.1.1.pbw`. Native round previews: `media/round/`. Repeatable fixture/capture instructions: [round compatibility QA](knowledge/procedural/round_compatibility.md).
+
+This update is [publicly available](https://apps.repebble.com/1ee890ebe1f942a2aa708f56) with round screenshots. Public PBW bytes and screenshot pixels verify; physical-watch validation remains separate.

@@ -1,0 +1,39 @@
+{
+  "name": "Ledger",
+  "screenshots": [
+    "emery_01_palettes.gif",
+    "emery_02_palette.png",
+    "emery_03_palette.png",
+    "emery_04_palette.png",
+    "emery_05_palette.png"
+  ],
+  "frame_sources": [
+    "ledger-default.png",
+    "ledger-palette-1.png",
+    "ledger-palette-2.png",
+    "ledger-palette-3.png",
+    "ledger-palette-4.png",
+    "ledger-palette-5.png"
+  ],
+  "palette_names": [
+    "Paper",
+    "Cream",
+    "Night",
+    "Sage",
+    "Ice",
+    "Blue"
+  ],
+  "durations_ms": [
+    3000,
+    2500,
+    2500,
+    2500,
+    2500,
+    2500
+  ],
+  "size": [
+    200,
+    228
+  ],
+  "gif_sha256": "39b126bfa10016b08bcea00b3c5422c45445d5ba39a1b5bfea74a62d99b284fb"
+}

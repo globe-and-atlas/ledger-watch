@@ -1,0 +1,33 @@
+{
+  "name": "Ledger",
+  "slug": "Ledger",
+  "frames": [
+    "ledger-default.png",
+    "ledger-palette-1.png",
+    "ledger-palette-2.png",
+    "ledger-palette-3.png",
+    "ledger-palette-4.png",
+    "ledger-palette-5.png"
+  ],
+  "labels": [
+    "Paper",
+    "Cream",
+    "Night",
+    "Sage",
+    "Ice",
+    "Blue"
+  ],
+  "stills": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "icon_crop": [
+    10,
+    50,
+    190,
+    120
+  ],
+  "description": "Quiet type. Clear time.\n\nLedger combines large serif numerals with fine rules, a centered date, and a neatly aligned battery percentage.\n\nMake it yours:\n- Six palettes: Paper, Cream, Night, Sage, Ice, and Blue.\n- Custom background, text, and accent colors.\n- Watch default, 12-hour, or 24-hour time, with AM/PM in 12-hour mode.\n- Optional date: weekday/month/day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.\n- Live battery percentage, with an accent color.\n\nThe animated preview cycles through the six palettes at a fixed sample time. Choose your preferred colors in settings; the watchface keeps that palette.\n\nFor Pebble Time 2."
+}

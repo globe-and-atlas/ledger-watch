@@ -1,0 +1,14 @@
+Quiet type. Clear time.
+
+Ledger combines large serif numerals with fine rules, a centered date, and a neatly aligned battery percentage.
+
+Make it yours:
+- Six palettes: Paper, Cream, Night, Sage, Ice, and Blue.
+- Custom background, text, and accent colors.
+- Watch default, 12-hour, or 24-hour time, with AM/PM in 12-hour mode.
+- Optional date: weekday/month/day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+- Live battery percentage, with an accent color.
+
+The animated preview cycles through the six palettes at a fixed sample time. Choose your preferred colors in settings; the watchface keeps that palette.
+
+For Pebble Time 2.

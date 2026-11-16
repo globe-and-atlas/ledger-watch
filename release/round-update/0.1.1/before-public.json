@@ -1,0 +1,21 @@
+{
+  "url": "https://apps.repebble.com/1ee890ebe1f942a2aa708f56",
+  "screenshots": [
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/fc1ce37a-d60c-4567-91be-ef3d10ad0fad.gif",
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/420b0417-ac2e-4f4f-ae75-a5fcedbce8db.png",
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/c6678c86-60cd-4506-a4f9-c3d04030f3ef.png",
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/b01443a8-3836-47dc-bf35-4d9d56082d84.png",
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/45b8cf61-f5f8-4899-9ba2-d141345eed37.png"
+  ],
+  "downloads": [
+    "https://appstore-api.repebble.com/api/assets/pbw/1ee890ebe1f942a2aa708f56/0.1.0/dadf1bd0-33e7-4686-a201-4caadee480f6.pbw"
+  ],
+  "pbw_sha256": "2b6f61bb45be4ef8949a7f88a542cf71531970f06c13383414be4a1be441b2f6",
+  "screenshot_sha256": {
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/fc1ce37a-d60c-4567-91be-ef3d10ad0fad.gif": "39b126bfa10016b08bcea00b3c5422c45445d5ba39a1b5bfea74a62d99b284fb",
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/420b0417-ac2e-4f4f-ae75-a5fcedbce8db.png": "b0332e26aef49070fa75de8301e8211e016edadbc5d44a017563b62c909a4cd6",
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/c6678c86-60cd-4506-a4f9-c3d04030f3ef.png": "d1973143a49ea7c3c08484b72463a7af20ad14d4955de0907418b199e511df64",
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/b01443a8-3836-47dc-bf35-4d9d56082d84.png": "24644fa318686912dd6f7b92d78b2113f435891582cd0991c3ecbae795450105",
+    "https://assets.repebble.com/screenshots/1ee890ebe1f942a2aa708f56/emery/45b8cf61-f5f8-4899-9ba2-d141345eed37.png": "0a5b25b5e5f4b01f3f3740a3311bd6f25e68b8fe54e2a856ff0dbed91b7268ba"
+  }
+}

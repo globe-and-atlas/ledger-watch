@@ -1,0 +1,10 @@
+{
+  "prefix": "LEDGER",
+  "flags": {
+    "LEDGER_FIXTURE": "1",
+    "LEDGER_HOUR": "10",
+    "LEDGER_MINUTE": "8",
+    "LEDGER_SECOND": "30",
+    "LEDGER_BATTERY": "82"
+  }
+}

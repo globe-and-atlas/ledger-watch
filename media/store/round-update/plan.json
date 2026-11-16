@@ -1,0 +1,27 @@
+{
+  "repo": "ledger-watch",
+  "name": "Ledger",
+  "version": "0.1.1",
+  "uuid": "a46bd421-7a83-415f-9714-3aade56dfbf2",
+  "artifact": "/Users/danielbally/Git/ledger-watch/dist/Ledger-0.1.1.pbw",
+  "sha256": "c53aa62a1461ba71692ac8c973a07020e6800610bad6545211f37d2d37b1aba9",
+  "platform_binary_sha256": {
+    "emery": "17d836968f75b001bfc1264dfa09870e3c5554f7783723bcb051c7de3c2d54ea",
+    "chalk": "1436d8966e9ce64bcbf6d1d24fc4b21d09cd75dbb60154cd266dcdd9d0e74573",
+    "gabbro": "db45a349bb629321742b5153fd3df111ad48b51e1c249ad6dbe9304b3e21fd9f"
+  },
+  "app_id": "1ee890ebe1f942a2aa708f56",
+  "screenshots": [
+    "/Users/danielbally/Git/ledger-watch/media/store/round-update/chalk_01_round.png",
+    "/Users/danielbally/Git/ledger-watch/media/store/round-update/chalk_02_round.png",
+    "/Users/danielbally/Git/ledger-watch/media/store/round-update/gabbro_01_round.png",
+    "/Users/danielbally/Git/ledger-watch/media/store/round-update/gabbro_02_round.png"
+  ],
+  "screenshot_sha256": {
+    "chalk_01_round.png": "df77e11c64573ac3e19d0b2c482e5c786ff0b022f7e32b28a1a681e2566866db",
+    "chalk_02_round.png": "f89fb13f69227137792cc4c5a1926a6938a8d3947b4490bdb154db86536a8b16",
+    "gabbro_01_round.png": "8669d14248843dc56b82e7ca137237e76acca1e9e90181eda8e1bc785fc9932c",
+    "gabbro_02_round.png": "b221bd7da2c4dcf470296c3f5483d45c0df125230d6bf1e474390d1bc9ce22e9"
+  },
+  "release_notes": "Native layouts for original Time Round (180x180) and Round 2 (260x260). Preserves the Time 2 design and existing settings."
+}
